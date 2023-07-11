@@ -72,6 +72,9 @@ android_app {
         proguard_flags_files: [
             "proguard.flags",
         ],
+        enabled: true,
+        optimize: true,
+        shrink: true,
     },
 
     proto: {
