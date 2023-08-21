@@ -58,7 +58,7 @@ import java.util.regex.Pattern;
  */
 public class CarrierXmlParser {
     public static final String LOG_TAG = "CarrierXmlParser";
-    private static final boolean DEBUG = true;
+    private static final boolean DEBUG = false;
 
     private static final String STAR_SIGN = "*";
     private static final String POUND_SIGN = "#";
